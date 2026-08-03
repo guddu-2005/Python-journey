@@ -4,26 +4,29 @@
 list = []
 
 l1 = input ('Enter 1st fruit : ')
-list.append(l1)
-
 l2 = input ('Enter 2nd fruit : ')
-list.append(l2)
+l3 = input ('Enter 3rd fruit : ')
+l4 = input ('Enter 4th fruit : ')
+l5 = input ('Enter 5th fruit : ')
+l6 = input ('Enter 6th fruit : ')
+l7 = input ('Enter 7th fruit : ')
 
-# l3 = input ('Enter 3rd fruit : ')
+
+# list.append(l1)
+
+# list.append(l2)
+
 # list.append(l3)
 
-# l4 = input ('Enter 4th fruit : ')
 # list.append(l4)
 
-# l5 = input ('Enter 5th fruit : ')
 # list.append(l5)
 
-# l6 = input ('Enter 6th fruit : ')
 # list.append(l6)
 
-# l7 = input ('Enter 7th fruit : ')
 # list.append(l7)
 
-l8 = list.extend([l1,l2])
+list.extend([l1,l2,l3,l4,l5,l6,l7])
+
 
 print (list)
