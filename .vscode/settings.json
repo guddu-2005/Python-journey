@@ -1,0 +1,29 @@
+{
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.inlineSuggest.edits.allowCodeShifting": "never",
+    "editor.inlineSuggest.edits.renderSideBySide": "never",
+    "editor.inlineSuggest.edits.showLongDistanceHint": false,
+    "editor.inlineSuggest.enabled": false,
+    "editor.inlineSuggest.experimental.emptyResponseInformation": false,
+    "editor.inlineSuggest.syntaxHighlightingEnabled": false,
+    "editor.quickSuggestionsDelay": 1000000000,
+    "editor.screenReaderAnnounceInlineSuggestion": false,
+    "editor.snippetSuggestions": "none",
+    "editor.suggest.filterGraceful": false,
+    "editor.suggest.matchOnWordStartOnly": false,
+    "editor.suggest.selectionMode": "never",
+    "terminal.integrated.suggest.providers": {
+        "lsp": false,
+        "vscode.terminal-suggest": false
+    },
+    "terminal.integrated.suggest.selectionMode": "never",
+    "terminal.integrated.suggest.showStatusBar": false,
+    "emmet.showAbbreviationSuggestions": false,
+    "geminicodeassist.inlineSuggestions.enableAuto": false,
+    "geminicodeassist.inlineSuggestions.suggestionSpeed": "Slow",
+    "markdown.suggest.paths.enabled": false,
+    "intelliphp.inlineSuggestionsEnabled": false,
+    "geminicodeassist.chat.changeView": "Default diff view",
+    "emmet.showExpandedAbbreviation": "never"
+}
