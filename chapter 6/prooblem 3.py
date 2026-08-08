@@ -13,7 +13,7 @@ lib = [
 ]
 
 
-if lib in text :
+if any(keyword in text for keyword in lib) :
     print ("This message is spam")
 
 else :
