@@ -2,10 +2,10 @@
 
 
 
+
 number = int(input("Enter your number : "))
-i = 0
 
-while i < 11 :
+
+for i in range (0, 11) :
     print (number, "X" ,i, "=", i*number)
-    i = i + 1
-
+    
