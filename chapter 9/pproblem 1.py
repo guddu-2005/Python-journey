@@ -1,6 +1,6 @@
 st = "hello bhai"
 
-f = open("new.txt", "w")
+f = open("file.txt", "a")
 
 f.write(st)
 
