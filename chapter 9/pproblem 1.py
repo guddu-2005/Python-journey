@@ -1,4 +1,7 @@
-f = open("file.txt")
-data = f.read()
-print(data)
+st = "hello bhai"
+
+f = open("new.txt", "w")
+
+f.write(st)
+
 f.close()
